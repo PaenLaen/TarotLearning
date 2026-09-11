@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>แมวทาโรต์ — คลังไพ่</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Taviraj:wght@500;600&family=Sarabun:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <p class="mark"><span class="paw">✦</span> แมวทาโรต์</p>
+  <p class="sub">คลังไพ่ 78 ใบ — แตะไพ่ใบไหนก็ได้เพื่อดูความหมาย</p>
+</header>
+
+<nav class="filter-row" id="filterRow" aria-label="กรองไพ่ตามชุด">
+  <button class="chip" data-filter="all" aria-pressed="true">ทั้งหมด</button>
+  <button class="chip" data-filter="major" aria-pressed="false">ไพ่หลัก</button>
+  <button class="chip" data-filter="wands" aria-pressed="false">ไม้เท้า</button>
+  <button class="chip" data-filter="cups" aria-pressed="false">ถ้วย</button>
+  <button class="chip" data-filter="swords" aria-pressed="false">ดาบ</button>
+  <button class="chip" data-filter="pentacles" aria-pressed="false">เหรียญ</button>
+</nav>
+
+<main id="sections"></main>
+
+<div class="detail-overlay" id="detailOverlay">
+  <div class="detail-panel" id="detailPanel" role="dialog" aria-modal="true">
+    <div class="grabber"></div>
+    <button class="detail-close" id="detailClose" aria-label="ปิด">✕</button>
+    <div class="detail-head">
+      <img id="detailImg" src="" alt="">
+      <div class="detail-titles">
+        <p class="en" id="detailEn"></p>
+        <p class="th" id="detailTh"></p>
+        <span class="tag" id="detailTag"></span>
+      </div>
+    </div>
+    <div class="meaning-list" id="meaningList"></div>
+  </div>
+</div>
+
+<nav class="tab-bar" aria-label="เมนูหลัก">
+  <a class="tab active" href="index.html">
+    <span class="icon">🗂️</span>คลังไพ่
+  </a>
+  <a class="tab" href="reading.html">
+    <span class="icon">🔮</span>ทำนาย
+  </a>
+</nav>
+
+<script src="js/learn.js"></script>
+</body>
+</html>

@@ -1,0 +1,2220 @@
+[
+  {
+    "id": "major_00",
+    "arcana": "major",
+    "number": 0,
+    "name_en": "The Fool",
+    "name_th": "คนโง่/การเริ่มต้น",
+    "display_th": "0 The Fool — คนโง่/การเริ่มต้น",
+    "image": "major/00_the_fool.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "มีโอกาสใหม่ แต่ระวังใช้เงินตามใจหรือเสี่ยงโดยไม่คิด"
+      },
+      "work": {
+        "level": "good",
+        "text": "เหมาะเริ่มงานใหม่ ลองสิ่งใหม่ หรือออกจากกรอบเดิม"
+      },
+      "love": {
+        "level": "good",
+        "text": "มีเกณฑ์เริ่มต้นความสัมพันธ์แบบสดใส แต่ยังไม่ชัดเจน"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "พลังงานดี แต่ระวังอุบัติเหตุเล็กๆ จากความรีบหรือประมาท"
+      }
+    }
+  },
+  {
+    "id": "major_01",
+    "arcana": "major",
+    "number": 1,
+    "name_en": "The Magician",
+    "name_th": "นักมายากล",
+    "display_th": "I The Magician — นักมายากล",
+    "image": "major/01_the_magician.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีความสามารถหาเงินจากทักษะ การเจรจา หรือไอเดีย"
+      },
+      "work": {
+        "level": "good",
+        "text": "ผลักดันงานได้สำเร็จ ใช้ความสามารถเต็มที่"
+      },
+      "love": {
+        "level": "good",
+        "text": "มีเสน่ห์ สื่อสารดี เหมาะกับการเริ่มคุยหรือปรับความเข้าใจ"
+      },
+      "health": {
+        "level": "good",
+        "text": "ฟื้นตัวดี หากลงมือดูแลตัวเองอย่างจริงจัง"
+      }
+    }
+  },
+  {
+    "id": "major_02",
+    "arcana": "major",
+    "number": 2,
+    "name_en": "The High Priestess",
+    "name_th": "นักบวชชีนี",
+    "display_th": "II The High Priestess — นักบวชชีนี",
+    "image": "major/02_the_high_priestess.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "ยังมีข้อมูลไม่ครบ ควรเก็บเงินและฟังสัญชาตญาณ"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "มีเรื่องเบื้องหลังหรือสิ่งที่ยังไม่เปิดเผย อย่ารีบตัดสินใจ"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความสัมพันธ์คลุมเครือ อาจต่างคนต่างเก็บความรู้สึก"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ควรพักผ่อนและสังเกตสัญญาณจากร่างกาย"
+      }
+    }
+  },
+  {
+    "id": "major_03",
+    "arcana": "major",
+    "number": 3,
+    "name_en": "The Empress",
+    "name_th": "จักรพรรดินี",
+    "display_th": "III The Empress — จักรพรรดินี",
+    "image": "major/03_the_empress.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "การเงินอุดมสมบูรณ์ มีโอกาสได้เงินหรือผลตอบแทนเพิ่ม"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานเติบโต เหมาะกับงานสร้างสรรค์ ดูแลคน หรือธุรกิจ"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักอบอุ่น ได้รับการเอาใจใส่ ความสัมพันธ์งอกงาม"
+      },
+      "health": {
+        "level": "good",
+        "text": "สุขภาพโดยรวมดี เน้นกินดี อยู่ดี และดูแลใจ"
+      }
+    }
+  },
+  {
+    "id": "major_04",
+    "arcana": "major",
+    "number": 4,
+    "name_en": "The Emperor",
+    "name_th": "จักรพรรดิ",
+    "display_th": "IV The Emperor — จักรพรรดิ",
+    "image": "major/04_the_emperor.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "วางแผนการเงินดี มีความมั่นคงจากวินัย"
+      },
+      "work": {
+        "level": "good",
+        "text": "ได้รับอำนาจ ความรับผิดชอบ หรือความก้าวหน้าในงาน"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความรักต้องการความชัดเจน แต่อย่าควบคุมกันมากเกินไป"
+      },
+      "health": {
+        "level": "good",
+        "text": "สุขภาพแข็งแรงหากมีวินัย แต่อย่าหักโหม"
+      }
+    }
+  },
+  {
+    "id": "major_05",
+    "arcana": "major",
+    "number": 5,
+    "name_en": "The Hierophant",
+    "name_th": "มหาปุโรหิต",
+    "display_th": "V The Hierophant — มหาปุโรหิต",
+    "image": "major/05_the_hierophant.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "เหมาะกับการเงินที่มั่นคง การออม หรือขอคำแนะนำผู้เชี่ยวชาญ"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานมีผู้ใหญ่สนับสนุน เหมาะทำตามระบบและกติกา"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความสัมพันธ์จริงจัง มีแนวโน้มพัฒนาเป็นทางการ"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังความเครียดจากการใช้ชีวิตตามกฎมากเกินไป"
+      }
+    }
+  },
+  {
+    "id": "major_06",
+    "arcana": "major",
+    "number": 6,
+    "name_en": "The Lovers",
+    "name_th": "คนรัก",
+    "display_th": "VI The Lovers — คนรัก",
+    "image": "major/06_the_lovers.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "มีเรื่องให้เลือกทางการเงิน ควรตัดสินใจตามคุณค่าระยะยาว"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานที่ต้องร่วมมือ เจรจา หรือทำเป็นทีมจะไปได้ดี"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักเด่นมาก การเลือกที่ชัดเจนและจริงใจนำไปสู่ความสัมพันธ์ที่ดี"
+      },
+      "health": {
+        "level": "good",
+        "text": "ใจดีส่งผลต่อกายดี แต่ควรรักษาสมดุลชีวิต"
+      }
+    }
+  },
+  {
+    "id": "major_07",
+    "arcana": "major",
+    "number": 7,
+    "name_en": "The Chariot",
+    "name_th": "รถศึก",
+    "display_th": "VII The Chariot — รถศึก",
+    "image": "major/07_the_chariot.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีแรงผลักดันหาเงินสำเร็จ แต่ต้องคุมรายจ่ายให้ดี"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานเดินหน้า ชนะอุปสรรค เหมาะลุยเป้าหมายใหญ่"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความรักไปต่อได้ หากทั้งคู่ควบคุมอารมณ์และมีเป้าหมายร่วมกัน"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังเหนื่อยล้า กล้ามเนื้อ หรืออุบัติเหตุจากการเดินทาง"
+      }
+    }
+  },
+  {
+    "id": "major_08",
+    "arcana": "major",
+    "number": 8,
+    "name_en": "Strength",
+    "name_th": "พละกำลัง",
+    "display_th": "VIII Strength — พละกำลัง",
+    "image": "major/08_strength.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "ค่อยๆ จัดการการเงินด้วยความอดทน แล้วจะผ่านได้"
+      },
+      "work": {
+        "level": "good",
+        "text": "ใช้ความนิ่งและความนุ่มนวล รับมือปัญหางานได้ดี"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักต้องใช้ความเข้าใจ อดทน และไม่ใช้อารมณ์"
+      },
+      "health": {
+        "level": "good",
+        "text": "พลังใจดี ช่วยให้ฟื้นตัวและดูแลสุขภาพต่อเนื่อง"
+      }
+    }
+  },
+  {
+    "id": "major_09",
+    "arcana": "major",
+    "number": 9,
+    "name_en": "The Hermit",
+    "name_th": "ฤๅษี",
+    "display_th": "IX The Hermit — ฤๅษี",
+    "image": "major/09_the_hermit.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "เหมาะทบทวนแผนการเงิน ลดรายจ่าย และเก็บเงินมากกว่าลงทุนเสี่ยง"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "อาจทำงานลำพังหรือกำลังค้นหาทิศทางใหม่ อย่ารีบ"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ต้องการพื้นที่ส่วนตัว อาจห่างกันเพื่อทบทวนความรู้สึก"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ดูแลสุขภาพด้วยการพักผ่อน ตรวจเช็ก และไม่เก็บความเครียดคนเดียว"
+      }
+    }
+  },
+  {
+    "id": "major_10",
+    "arcana": "major",
+    "number": 10,
+    "name_en": "Wheel of Fortune",
+    "name_th": "วงล้อแห่งโชคชะตา",
+    "display_th": "X Wheel of Fortune — วงล้อแห่งโชคชะตา",
+    "image": "major/10_wheel_of_fortune.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "จังหวะการเงินเปลี่ยนไปในทางดี มีโอกาสหรือโชคเข้ามา"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานมีการเปลี่ยนแปลงที่เปิดโอกาสใหม่ ควรปรับตัวไว"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความสัมพันธ์มีจุดเปลี่ยน อาจพัฒนาเร็วหรือเปลี่ยนสถานะ"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "สุขภาพขึ้นลงตามความเครียดและไลฟ์สไตล์ ควรรักษาสมดุล"
+      }
+    }
+  },
+  {
+    "id": "major_11",
+    "arcana": "major",
+    "number": 11,
+    "name_en": "Justice",
+    "name_th": "ความยุติธรรม",
+    "display_th": "XI Justice — ความยุติธรรม",
+    "image": "major/11_justice.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "รายรับรายจ่ายต้องชัดเจน ระวังสัญญา หนี้ หรือเอกสารการเงิน"
+      },
+      "work": {
+        "level": "good",
+        "text": "ผลลัพธ์ตามผลงาน เหมาะกับการเจรจา เซ็นสัญญา และงานเอกสาร"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ต้องคุยกันตรงๆ และยุติธรรมต่อกัน"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ดูแลสมดุลชีวิต ระวังปัญหาที่เกิดจากพฤติกรรมเดิมๆ"
+      }
+    }
+  },
+  {
+    "id": "major_12",
+    "arcana": "major",
+    "number": 12,
+    "name_en": "The Hanged Man",
+    "name_th": "ชายแขวนคอ",
+    "display_th": "XII The Hanged Man — ชายแขวนคอ",
+    "image": "major/12_the_hanged_man.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "การเงินอาจติดขัด ล่าช้า หรือเงินยังไม่เข้าตามหวัง ควรชะลอการเสี่ยง"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "งานเหมือนหยุดนิ่ง แต่เป็นช่วงดีสำหรับปรับมุมมองและวางแผนใหม่"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความสัมพันธ์ต้องอดทน อาจต้องยอมถอยเพื่อเห็นใจอีกฝ่าย"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ควรพัก ฟื้นตัว และอย่าฝืนร่างกาย"
+      }
+    }
+  },
+  {
+    "id": "major_13",
+    "arcana": "major",
+    "number": 13,
+    "name_en": "Death",
+    "name_th": "ความตาย/การเปลี่ยนผ่าน",
+    "display_th": "XIII Death — ความตาย/การเปลี่ยนผ่าน",
+    "image": "major/13_death.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "ปิดภาระเก่าหรือเปลี่ยนวิธีจัดการเงิน เพื่อเปิดทางที่ดีกว่า"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "มีเกณฑ์เปลี่ยนงาน เปลี่ยนบทบาท หรือจบโปรเจกต์สำคัญ"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความสัมพันธ์เปลี่ยนแปลงชัดเจน อาจจบเพื่อเริ่มต้นใหม่ที่เหมาะกว่า"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "เหมาะกับการปรับพฤติกรรมสุขภาพ ตัดสิ่งที่บั่นทอนร่างกาย"
+      }
+    }
+  },
+  {
+    "id": "major_14",
+    "arcana": "major",
+    "number": 14,
+    "name_en": "Temperance",
+    "name_th": "การผสมผสาน/ความพอดี",
+    "display_th": "XIV Temperance — การผสมผสาน/ความพอดี",
+    "image": "major/14_temperance.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "บริหารเงินแบบพอดี ค่อยเป็นค่อยไปแล้วมั่นคง"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานราบรื่นจากการประสานงานและปรับตัว"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักสมดุล ค่อยๆ ปรับจูนกันได้ดี"
+      },
+      "health": {
+        "level": "good",
+        "text": "สุขภาพดีขึ้นเมื่อพักผ่อน กิน และใช้ชีวิตอย่างพอดี"
+      }
+    }
+  },
+  {
+    "id": "major_15",
+    "arcana": "major",
+    "number": 15,
+    "name_en": "The Devil",
+    "name_th": "ปีศาจ",
+    "display_th": "XV The Devil — ปีศาจ",
+    "image": "major/15_the_devil.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "ระวังหนี้ รายจ่ายฟุ่มเฟือย การลงทุนตามอารมณ์ หรือข้อตกลงไม่เป็นธรรม"
+      },
+      "work": {
+        "level": "caution",
+        "text": "ระวังงานกดดัน การเมืองในที่ทำงาน หรือยึดติดกับงานเกินไป"
+      },
+      "love": {
+        "level": "caution",
+        "text": "ความสัมพันธ์อาจมีความหึงหวง ควบคุมกัน หรือผูกพันแบบไม่สุขภาพดี"
+      },
+      "health": {
+        "level": "caution",
+        "text": "ระวังความเครียด พฤติกรรมเสพติด และการละเลยสุขภาพ"
+      }
+    }
+  },
+  {
+    "id": "major_16",
+    "arcana": "major",
+    "number": 16,
+    "name_en": "The Tower",
+    "name_th": "หอคอย",
+    "display_th": "XVI The Tower — หอคอย",
+    "image": "major/16_the_tower.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "ระวังรายจ่ายฉุกเฉิน การสูญเสีย หรือแผนการเงินที่เปลี่ยนกะทันหัน"
+      },
+      "work": {
+        "level": "caution",
+        "text": "งานมีการเปลี่ยนแปลงฉับพลัน ควรมีแผนสำรอง"
+      },
+      "love": {
+        "level": "caution",
+        "text": "ความจริงอาจถูกเปิดเผย เกิดการทะเลาะหรือเปลี่ยนแปลงครั้งใหญ่"
+      },
+      "health": {
+        "level": "caution",
+        "text": "ระวังอุบัติเหตุ ความเครียดเฉียบพลัน และพักผ่อนไม่พอ"
+      }
+    }
+  },
+  {
+    "id": "major_17",
+    "arcana": "major",
+    "number": 17,
+    "name_en": "The Star",
+    "name_th": "ดวงดาว",
+    "display_th": "XVII The Star — ดวงดาว",
+    "image": "major/17_the_star.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "การเงินเริ่มเห็นทางออก มีความหวังและโอกาสฟื้นตัว"
+      },
+      "work": {
+        "level": "good",
+        "text": "ได้แรงบันดาลใจ งานสร้างสรรค์หรือแผนระยะยาวโดดเด่น"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความสัมพันธ์เยียวยาได้ มีโอกาสพบคนที่เข้ากัน"
+      },
+      "health": {
+        "level": "good",
+        "text": "ฟื้นฟูร่างกายและจิตใจได้ดี ควรดูแลตัวเองอย่างต่อเนื่อง"
+      }
+    }
+  },
+  {
+    "id": "major_18",
+    "arcana": "major",
+    "number": 18,
+    "name_en": "The Moon",
+    "name_th": "ดวงจันทร์",
+    "display_th": "XVIII The Moon — ดวงจันทร์",
+    "image": "major/18_the_moon.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "ระวังข้อมูลไม่ชัด ข่าวลือ การถูกหลอก หรือการตัดสินใจด้วยความกลัว"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "งานมีความคลุมเครือ ควรตรวจรายละเอียดและอย่าคิดไปเอง"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความรักไม่ชัดเจน อาจมีความระแวงหรือเข้าใจผิด"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังความเครียด นอนไม่หลับ และอารมณ์แปรปรวน"
+      }
+    }
+  },
+  {
+    "id": "major_19",
+    "arcana": "major",
+    "number": 19,
+    "name_en": "The Sun",
+    "name_th": "ดวงอาทิตย์",
+    "display_th": "XIX The Sun — ดวงอาทิตย์",
+    "image": "major/19_the_sun.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "การเงินสดใส มีข่าวดี ความสำเร็จ หรือรายได้เพิ่ม"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานโดดเด่น ได้รับการยอมรับและผลลัพธ์น่าพอใจ"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักมีความสุข ชัดเจน และอบอุ่น"
+      },
+      "health": {
+        "level": "good",
+        "text": "พลังงานดี สุขภาพแข็งแรงขึ้น"
+      }
+    }
+  },
+  {
+    "id": "major_20",
+    "arcana": "major",
+    "number": 20,
+    "name_en": "Judgement",
+    "name_th": "การตื่นรู้/การพิพากษา",
+    "display_th": "XX Judgement — การตื่นรู้/การพิพากษา",
+    "image": "major/20_the_judgement.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีโอกาสเคลียร์ภาระเก่า ได้เงินค้าง หรือเริ่มวางแผนการเงินใหม่"
+      },
+      "work": {
+        "level": "good",
+        "text": "มีข่าวสำคัญเรื่องงาน เหมาะกลับมาคว้าโอกาสที่เคยพลาด"
+      },
+      "love": {
+        "level": "good",
+        "text": "ได้ทบทวนและตัดสินใจเรื่องความสัมพันธ์อย่างชัดเจน"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ควรใส่ใจสัญญาณเตือนจากร่างกาย และตรวจสุขภาพตามเหมาะสม"
+      }
+    }
+  },
+  {
+    "id": "major_21",
+    "arcana": "major",
+    "number": 21,
+    "name_en": "The World",
+    "name_th": "โลก",
+    "display_th": "XXI The World — โลก",
+    "image": "major/21_the_world.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "การเงินสำเร็จเป็นรูปธรรม ได้ผลตอบแทนจากสิ่งที่ทำมา"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานปิดจบอย่างสมบูรณ์ มีโอกาสขยับสู่ระดับใหม่"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักลงตัว อาจพัฒนาไปสู่ความมั่นคงหรือเป้าหมายร่วมกัน"
+      },
+      "health": {
+        "level": "good",
+        "text": "สุขภาพโดยรวมสมดุล เหมาะกับการเริ่มดูแลตัวเองในระยะยาว"
+      }
+    }
+  },
+  {
+    "id": "cups_ace",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Ace",
+    "name_en": "Ace of Cups",
+    "name_th": "หนึ่งถ้วย",
+    "display_th": "Ace of Cups — หนึ่งถ้วย",
+    "image": "minor/ace_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีโอกาสทางการเงินใหม่จากคนช่วยเหลือ งานเสริม หรือไอเดียที่รัก"
+      },
+      "work": {
+        "level": "good",
+        "text": "เริ่มงานหรือโปรเจกต์ด้วยพลังใจดี งานบริการ/สร้างสรรค์เด่น"
+      },
+      "love": {
+        "level": "good",
+        "text": "เปิดใจ ได้เริ่มรักใหม่ หรือความสัมพันธ์อบอุ่นขึ้น"
+      },
+      "health": {
+        "level": "good",
+        "text": "ใจสบายขึ้น ส่งผลดีต่อสุขภาพโดยรวม"
+      }
+    }
+  },
+  {
+    "id": "cups_02",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Two",
+    "name_en": "Two of Cups",
+    "name_th": "สองถ้วย",
+    "display_th": "Two of Cups — สองถ้วย",
+    "image": "minor/02_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีหุ้นส่วนหรือคนสนับสนุนทางการเงินที่เข้ากันได้"
+      },
+      "work": {
+        "level": "good",
+        "text": "การร่วมงาน เจรจา และทำข้อตกลงราบรื่น"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักสมหวัง เข้าใจกัน มีโอกาสพัฒนาความสัมพันธ์"
+      },
+      "health": {
+        "level": "good",
+        "text": "สภาพใจดีขึ้นจากความสัมพันธ์ที่เกื้อหนุน"
+      }
+    }
+  },
+  {
+    "id": "cups_03",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Three",
+    "name_en": "Three of Cups",
+    "name_th": "สามถ้วย",
+    "display_th": "Three of Cups — สามถ้วย",
+    "image": "minor/03_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "ได้ข่าวดี รายได้จากงานกลุ่ม หรือมีคนช่วยเหลือ"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานทีม งานอีเวนต์ และการสร้างเครือข่ายเด่น"
+      },
+      "love": {
+        "level": "good",
+        "text": "มีความสุขกับคนรอบตัว คนโสดอาจพบคนผ่านเพื่อน"
+      },
+      "health": {
+        "level": "good",
+        "text": "อารมณ์แจ่มใส แต่ระวังกินดื่มหรือพักผ่อนเกินพอดี"
+      }
+    }
+  },
+  {
+    "id": "cups_04",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Four",
+    "name_en": "Four of Cups",
+    "name_th": "สี่ถ้วย",
+    "display_th": "Four of Cups — สี่ถ้วย",
+    "image": "minor/04_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "อาจมองข้ามโอกาสเงินดี เพราะไม่พอใจกับสิ่งที่มี"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "เบื่องาน หมดไฟ หรือยังไม่เห็นโอกาสตรงหน้า"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความสัมพันธ์นิ่งๆ เพราะต่างฝ่ายต่างไม่เปิดใจ"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังความเครียด เบื่อหน่าย และพลังใจลดลง"
+      }
+    }
+  },
+  {
+    "id": "cups_05",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Five",
+    "name_en": "Five of Cups",
+    "name_th": "ห้าถ้วย",
+    "display_th": "Five of Cups — ห้าถ้วย",
+    "image": "minor/05_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "ผิดหวังเรื่องเงินหรือเสียโอกาส ควรโฟกัสสิ่งที่ยังเหลืออยู่"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "งานมีความเสียดายหรือผิดหวัง แต่ยังมีทางแก้"
+      },
+      "love": {
+        "level": "caution",
+        "text": "เสียใจ ผิดหวัง หรือยังติดกับเรื่องเก่า ควรเยียวยาใจ"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ใจที่หม่นอาจทำให้เหนื่อยล้า ควรพักและหาคนคุย"
+      }
+    }
+  },
+  {
+    "id": "cups_06",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Six",
+    "name_en": "Six of Cups",
+    "name_th": "หกถ้วย",
+    "display_th": "Six of Cups — หกถ้วย",
+    "image": "minor/06_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "มีรายได้หรือโอกาสจากคนเก่า งานเก่า หรือสิ่งที่เคยทำ"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานเดิม/ลูกค้าเก่าอาจกลับมา ช่วยให้งานราบรื่น"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความสัมพันธ์อบอุ่น คิดถึงอดีต หรือมีคนเก่ากลับมา"
+      },
+      "health": {
+        "level": "good",
+        "text": "จิตใจผ่อนคลายจากความทรงจำดีๆ แต่ควรอยู่กับปัจจุบันด้วย"
+      }
+    }
+  },
+  {
+    "id": "cups_07",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Seven",
+    "name_en": "Seven of Cups",
+    "name_th": "เจ็ดถ้วย",
+    "display_th": "Seven of Cups — เจ็ดถ้วย",
+    "image": "minor/07_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "ตัวเลือกเงินเยอะแต่ไม่ชัด ระวังฝันหวานหรือข้อเสนอเกินจริง"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "มีหลายทางเลือกในงาน ควรเลือกตามข้อเท็จจริง ไม่ใช่อารมณ์"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "มีคนเข้ามาหรือความคาดหวังมาก แต่ต้องดูความชัดเจน"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังคิดมาก นอนหลับไม่ดี และปล่อยใจฟุ้งซ่าน"
+      }
+    }
+  },
+  {
+    "id": "cups_08",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Eight",
+    "name_en": "Eight of Cups",
+    "name_th": "แปดถ้วย",
+    "display_th": "Eight of Cups — แปดถ้วย",
+    "image": "minor/08_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "ตัดสินใจออกจากสิ่งที่ไม่คุ้มค่า เพื่อหาโอกาสที่ดีกว่า"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "อาจอยากลาออก เปลี่ยนงาน หรือทิ้งงานที่ไม่ตอบโจทย์ใจ"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ถึงเวลาถอยจากความสัมพันธ์ที่ไม่เติมเต็ม แม้จะตัดใจยาก"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "การปล่อยวางช่วยให้ใจดีขึ้น ควรพักและทบทวนตัวเอง"
+      }
+    }
+  },
+  {
+    "id": "cups_09",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Nine",
+    "name_en": "Nine of Cups",
+    "name_th": "เก้าถ้วย",
+    "display_th": "Nine of Cups — เก้าถ้วย",
+    "image": "minor/09_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีแนวโน้มได้ตามที่หวัง การเงินคล่องตัว หรือมีของที่อยากได้"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานให้ผลตอบแทนและความพอใจ เหมาะขอผลลัพธ์ที่ต้องการ"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักมีความสุข ได้รับความใส่ใจและความพึงพอใจ"
+      },
+      "health": {
+        "level": "good",
+        "text": "ความสุขใจช่วยให้พลังงานดี แต่ระวังตามใจตัวเองเกินไป"
+      }
+    }
+  },
+  {
+    "id": "cups_10",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Ten",
+    "name_en": "Ten of Cups",
+    "name_th": "สิบถ้วย",
+    "display_th": "Ten of Cups — สิบถ้วย",
+    "image": "minor/10_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "การเงินมั่นคงจากครอบครัวหรือการวางแผนระยะยาว"
+      },
+      "work": {
+        "level": "good",
+        "text": "บรรยากาศงานดี ทีมสนับสนุน เหมาะกับงานที่มีเป้าหมายร่วมกัน"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักสมบูรณ์ อบอุ่น มีความมั่นคงในครอบครัว"
+      },
+      "health": {
+        "level": "good",
+        "text": "สุขภาพใจดี สภาพแวดล้อมที่ดีช่วยให้กายแข็งแรง"
+      }
+    }
+  },
+  {
+    "id": "cups_page",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Page",
+    "name_en": "Page of Cups",
+    "name_th": "เด็กถ้วย",
+    "display_th": "Page of Cups — เด็กถ้วย",
+    "image": "minor/page_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "มีข่าวหรือข้อเสนอเงินเล็กๆ ที่น่าสนใจ ควรดูรายละเอียดก่อน"
+      },
+      "work": {
+        "level": "good",
+        "text": "ได้รับไอเดียใหม่ ข่าวดี หรือเริ่มงานสร้างสรรค์"
+      },
+      "love": {
+        "level": "good",
+        "text": "มีคนส่งสัญญาณสนใจ เหมาะกับการเปิดใจแบบน่ารักๆ"
+      },
+      "health": {
+        "level": "good",
+        "text": "อารมณ์อ่อนไหว ควรดูแลการพักผ่อนและความรู้สึก"
+      }
+    }
+  },
+  {
+    "id": "cups_knight",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Knight",
+    "name_en": "Knight of Cups",
+    "name_th": "อัศวินถ้วย",
+    "display_th": "Knight of Cups — อัศวินถ้วย",
+    "image": "minor/knight_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "มีข้อเสนอการเงินที่น่าสนใจ แต่ตรวจเงื่อนไขก่อนตกลง"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานที่ใช้การสื่อสาร ศิลปะ การขาย หรือการนำเสนอไปได้ดี"
+      },
+      "love": {
+        "level": "good",
+        "text": "มีการเข้าหา บอกรัก หรือความสัมพันธ์คืบหน้า"
+      },
+      "health": {
+        "level": "good",
+        "text": "ใจดีและมีแรงบันดาลใจ แต่ระวังใช้อารมณ์นำการใช้ชีวิต"
+      }
+    }
+  },
+  {
+    "id": "cups_queen",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "Queen",
+    "name_en": "Queen of Cups",
+    "name_th": "ราชินีถ้วย",
+    "display_th": "Queen of Cups — ราชินีถ้วย",
+    "image": "minor/queen_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "ใช้สัญชาตญาณบริหารเงินได้ดี อาจมีผู้หญิงช่วยสนับสนุน"
+      },
+      "work": {
+        "level": "good",
+        "text": "เด่นด้านงานดูแลคน ให้คำปรึกษา ศิลปะ หรือการบริการ"
+      },
+      "love": {
+        "level": "good",
+        "text": "อ่อนโยน เข้าใจความรู้สึกกันลึกซึ้ง"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ควรตั้งขอบเขตทางอารมณ์ ไม่แบกปัญหาคนอื่นมากไป"
+      }
+    }
+  },
+  {
+    "id": "cups_king",
+    "arcana": "minor",
+    "suit": "Cups",
+    "suit_th": "ถ้วย",
+    "rank_en": "King",
+    "name_en": "King of Cups",
+    "name_th": "ราชาถ้วย",
+    "display_th": "King of Cups — ราชาถ้วย",
+    "image": "minor/king_of_cups.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "บริหารเงินด้วยความสุขุม ไม่ตัดสินใจเพราะอารมณ์"
+      },
+      "work": {
+        "level": "good",
+        "text": "เป็นผู้นำที่ดี จัดการคนและสถานการณ์กดดันได้"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักมั่นคง มีวุฒิภาวะและการดูแลกัน"
+      },
+      "health": {
+        "level": "good",
+        "text": "คุมอารมณ์ได้ดี แต่ควรระบายความเครียดอย่างเหมาะสม"
+      }
+    }
+  },
+  {
+    "id": "pentacles_ace",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Ace",
+    "name_en": "Ace of Pentacles",
+    "name_th": "หนึ่งเหรียญ",
+    "display_th": "Ace of Pentacles — หนึ่งเหรียญ",
+    "image": "minor/ace_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีโอกาสได้เงินก้อน งานใหม่ รายได้เพิ่ม หรือเริ่มต้นการออม/ลงทุนอย่างมั่นคง"
+      },
+      "work": {
+        "level": "good",
+        "text": "เปิดโอกาสงานใหม่ โปรเจกต์ใหม่ หรือเส้นทางเติบโตที่จับต้องได้"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความสัมพันธ์มีแนวโน้มจริงจังและมั่นคง"
+      },
+      "health": {
+        "level": "good",
+        "text": "เหมาะเริ่มดูแลสุขภาพ วางวินัยเรื่องกิน นอน และออกกำลังกาย"
+      }
+    }
+  },
+  {
+    "id": "pentacles_02",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Two",
+    "name_en": "Two of Pentacles",
+    "name_th": "สองเหรียญ",
+    "display_th": "Two of Pentacles — สองเหรียญ",
+    "image": "minor/02_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "ต้องหมุนเงิน จัดสมดุลรายรับรายจ่าย และระวังภาระหลายทาง"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "งานหลายอย่างเข้ามาพร้อมกัน ต้องบริหารเวลาให้ดี"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ต้องแบ่งเวลาให้ความรักกับเรื่องอื่นอย่างสมดุล"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังเหนื่อยล้าจากตารางชีวิตที่แน่นเกินไป"
+      }
+    }
+  },
+  {
+    "id": "pentacles_03",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Three",
+    "name_en": "Three of Pentacles",
+    "name_th": "สามเหรียญ",
+    "display_th": "Three of Pentacles — สามเหรียญ",
+    "image": "minor/03_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "เงินมาจากฝีมือ ความชำนาญ และการร่วมมือกับคนอื่น"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานทีมเด่น ได้รับการยอมรับในทักษะ มีโอกาสพัฒนาฝีมือ"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความสัมพันธ์ไปต่อได้จากการช่วยกันสร้างอนาคต"
+      },
+      "health": {
+        "level": "good",
+        "text": "สุขภาพดีขึ้นจากการมีผู้เชี่ยวชาญหรือคนคอยช่วยดูแล"
+      }
+    }
+  },
+  {
+    "id": "pentacles_04",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Four",
+    "name_en": "Four of Pentacles",
+    "name_th": "สี่เหรียญ",
+    "display_th": "Four of Pentacles — สี่เหรียญ",
+    "image": "minor/04_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "เก็บเงินเก่งและระวังตัวดี แต่ไม่ควรกลัวการใช้จ่ายหรือโอกาสมากเกินไป"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "ยึดติดวิธีทำงานเดิม ควรเปิดรับแนวทางใหม่บ้าง"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "อาจหวง ควบคุม หรือไม่กล้าเปิดใจเพราะกลัวเสียคนรัก"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังความเครียดจากการเก็บกดและกังวลเรื่องความมั่นคง"
+      }
+    }
+  },
+  {
+    "id": "pentacles_05",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Five",
+    "name_en": "Five of Pentacles",
+    "name_th": "ห้าเหรียญ",
+    "display_th": "Five of Pentacles — ห้าเหรียญ",
+    "image": "minor/05_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "ระวังเงินตึงมือ รายจ่ายจำเป็น หนี้ หรือความรู้สึกขาดแคลน ควรขอความช่วยเหลือเมื่อจำเป็น"
+      },
+      "work": {
+        "level": "caution",
+        "text": "งานไม่มั่นคง รู้สึกไม่ได้รับการสนับสนุน หรือมีแรงกดดันสูง"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความรักอาจผ่านช่วงลำบาก ต้องช่วยกันอย่างจริงใจ"
+      },
+      "health": {
+        "level": "caution",
+        "text": "ระวังสุขภาพอ่อนแอจากความเครียดหรือการละเลยการดูแลตนเอง"
+      }
+    }
+  },
+  {
+    "id": "pentacles_06",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Six",
+    "name_en": "Six of Pentacles",
+    "name_th": "หกเหรียญ",
+    "display_th": "Six of Pentacles — หกเหรียญ",
+    "image": "minor/06_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีการให้-รับที่สมดุล ได้รับความช่วยเหลือ เงินสนับสนุน หรือคืนหนี้"
+      },
+      "work": {
+        "level": "good",
+        "text": "มีผู้ใหญ่สนับสนุน งานบริการและการแบ่งปันทรัพยากรเด่น"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความสัมพันธ์ดีเมื่อทั้งสองฝ่ายให้และรับอย่างพอดี"
+      },
+      "health": {
+        "level": "good",
+        "text": "ได้รับการดูแลหรือคำแนะนำที่เหมาะสม"
+      }
+    }
+  },
+  {
+    "id": "pentacles_07",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Seven",
+    "name_en": "Seven of Pentacles",
+    "name_th": "เจ็ดเหรียญ",
+    "display_th": "Seven of Pentacles — เจ็ดเหรียญ",
+    "image": "minor/07_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "ผลตอบแทนกำลังเติบโตแต่ยังต้องรอ อย่าใจร้อนกับเงินหรือการลงทุน"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "งานเริ่มเห็นผล ควรประเมินและปรับแผนก่อนเดินหน้าต่อ"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความสัมพันธ์ต้องใช้เวลา ค่อยๆ สร้างความมั่นคง"
+      },
+      "health": {
+        "level": "good",
+        "text": "การดูแลสุขภาพต่อเนื่องเริ่มให้ผลดี"
+      }
+    }
+  },
+  {
+    "id": "pentacles_08",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Eight",
+    "name_en": "Eight of Pentacles",
+    "name_th": "แปดเหรียญ",
+    "display_th": "Eight of Pentacles — แปดเหรียญ",
+    "image": "minor/08_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "รายได้เพิ่มได้จากการฝึกทักษะ ตั้งใจทำงาน และพัฒนาตัวเอง"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานเด่นมาก เหมาะเรียนต่อ อัปสกิล ทำผลงาน และเก็บประสบการณ์"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความรักอาจต้องจัดเวลา เพราะทุ่มเทงานหรือเป้าหมายส่วนตัว"
+      },
+      "health": {
+        "level": "good",
+        "text": "วินัยด้านสุขภาพให้ผลชัด ค่อยๆ ทำสม่ำเสมอ"
+      }
+    }
+  },
+  {
+    "id": "pentacles_09",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Nine",
+    "name_en": "Nine of Pentacles",
+    "name_th": "เก้าเหรียญ",
+    "display_th": "Nine of Pentacles — เก้าเหรียญ",
+    "image": "minor/09_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "ฐานะดีขึ้น มีความมั่นคงและใช้เงินจากความสามารถของตน"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานสำเร็จ มีอิสระ ได้รับผลตอบแทนคุ้มกับความพยายาม"
+      },
+      "love": {
+        "level": "good",
+        "text": "รักตัวเอง มีความสุขได้ด้วยตัวเอง ความรักจึงมีคุณภาพ"
+      },
+      "health": {
+        "level": "good",
+        "text": "สุขภาพดีจากการดูแลตัวเองและมีสภาพแวดล้อมที่ดี"
+      }
+    }
+  },
+  {
+    "id": "pentacles_10",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Ten",
+    "name_en": "Ten of Pentacles",
+    "name_th": "สิบเหรียญ",
+    "display_th": "Ten of Pentacles — สิบเหรียญ",
+    "image": "minor/10_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "ความมั่นคงระยะยาว ทรัพย์สิน ครอบครัว มรดก หรือผลตอบแทนที่ยั่งยืน"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานมั่นคง ธุรกิจครอบครัว หรือการสร้างรากฐานอาชีพเด่น"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความสัมพันธ์จริงจัง มีเป้าหมายเรื่องครอบครัวและอนาคตร่วมกัน"
+      },
+      "health": {
+        "level": "good",
+        "text": "มีความพร้อมในการดูแลสุขภาพระยะยาว"
+      }
+    }
+  },
+  {
+    "id": "pentacles_page",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Page",
+    "name_en": "Page of Pentacles",
+    "name_th": "เด็กเหรียญ",
+    "display_th": "Page of Pentacles — เด็กเหรียญ",
+    "image": "minor/page_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "ได้ข่าวดีเรื่องงาน เงิน การเรียน หรือช่องทางรายได้ใหม่"
+      },
+      "work": {
+        "level": "good",
+        "text": "เหมาะเริ่มเรียนทักษะใหม่ ฝึกงาน หรือเริ่มโปรเจกต์ที่ต่อยอดได้"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความรักค่อยๆ พัฒนาแบบจริงใจ แสดงออกผ่านการกระทำ"
+      },
+      "health": {
+        "level": "good",
+        "text": "เหมาะเริ่มวางแผนสุขภาพหรือปรับพฤติกรรมเล็กๆ"
+      }
+    }
+  },
+  {
+    "id": "pentacles_knight",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Knight",
+    "name_en": "Knight of Pentacles",
+    "name_th": "อัศวินเหรียญ",
+    "display_th": "Knight of Pentacles — อัศวินเหรียญ",
+    "image": "minor/knight_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "เงินเติบโตช้าแต่ชัวร์ เหมาะออมและวางแผนอย่างมีวินัย"
+      },
+      "work": {
+        "level": "good",
+        "text": "ขยัน รับผิดชอบ งานมั่นคง แม้ผลลัพธ์ไม่ได้มาเร็ว"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักจริงจัง ซื่อสัตย์ และพร้อมดูแลระยะยาว"
+      },
+      "health": {
+        "level": "good",
+        "text": "สุขภาพดีได้จากกิจวัตรที่สม่ำเสมอ แต่ระวังทำงานจนไม่ขยับร่างกาย"
+      }
+    }
+  },
+  {
+    "id": "pentacles_queen",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "Queen",
+    "name_en": "Queen of Pentacles",
+    "name_th": "ราชินีเหรียญ",
+    "display_th": "Queen of Pentacles — ราชินีเหรียญ",
+    "image": "minor/queen_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "บริหารเงินเก่ง มีความอุดมสมบูรณ์และจัดการทรัพย์สินดี"
+      },
+      "work": {
+        "level": "good",
+        "text": "เด่นเรื่องบริหารงาน ดูแลทีม ธุรกิจ หรือทำงานที่สร้างความมั่นคง"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักอบอุ่น ดูแลกันได้ทั้งใจและชีวิตความเป็นอยู่"
+      },
+      "health": {
+        "level": "good",
+        "text": "ใส่ใจการกินอยู่และการดูแลตัวเองอย่างสมดุล"
+      }
+    }
+  },
+  {
+    "id": "pentacles_king",
+    "arcana": "minor",
+    "suit": "Pentacles",
+    "suit_th": "เหรียญ",
+    "rank_en": "King",
+    "name_en": "King of Pentacles",
+    "name_th": "ราชาเหรียญ",
+    "display_th": "King of Pentacles — ราชาเหรียญ",
+    "image": "minor/king_of_pentacles.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "การเงินแข็งแรง มีโอกาสสร้างทรัพย์สินหรือได้รับคำแนะนำจากผู้มีประสบการณ์"
+      },
+      "work": {
+        "level": "good",
+        "text": "ประสบความสำเร็จด้านธุรกิจ การบริหาร หรือได้ตำแหน่งมั่นคง"
+      },
+      "love": {
+        "level": "good",
+        "text": "เป็นความสัมพันธ์ที่พร้อมรับผิดชอบและสร้างอนาคตร่วมกัน"
+      },
+      "health": {
+        "level": "good",
+        "text": "สุขภาพโดยรวมมั่นคง แต่ควรระวังการกินดีอยู่ดีมากเกินไป"
+      }
+    }
+  },
+  {
+    "id": "swords_ace",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Ace",
+    "name_en": "Ace of Swords",
+    "name_th": "หนึ่งดาบ",
+    "display_th": "Ace of Swords — หนึ่งดาบ",
+    "image": "minor/ace_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "เห็นทางออกเรื่องเงินชัดขึ้น เหมาะเคลียร์บัญชี วางแผน หรือเจรจา"
+      },
+      "work": {
+        "level": "good",
+        "text": "มีไอเดียเด็ด ตัดสินใจชัดเจน เหมาะเริ่มงานที่ใช้ความคิดและการสื่อสาร"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ต้องคุยกันตรงไปตรงมา แต่อย่าใช้คำพูดแรงเกินไป"
+      },
+      "health": {
+        "level": "good",
+        "text": "ตัดสินใจเริ่มดูแลปัญหาสุขภาพอย่างจริงจังได้ผลดี"
+      }
+    }
+  },
+  {
+    "id": "swords_02",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Two",
+    "name_en": "Two of Swords",
+    "name_th": "สองดาบ",
+    "display_th": "Two of Swords — สองดาบ",
+    "image": "minor/02_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "ลังเลเรื่องใช้เงินหรือการลงทุน ควรรอข้อมูลให้ครบ"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "ติดอยู่ระหว่างสองทางเลือก ยังตัดสินใจไม่ได้"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ต่างฝ่ายต่างปิดใจ ควรเปิดพื้นที่พูดคุยอย่างสงบ"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ความเครียดจากการตัดสินใจอาจส่งผลต่อการนอนและอารมณ์"
+      }
+    }
+  },
+  {
+    "id": "swords_03",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Three",
+    "name_en": "Three of Swords",
+    "name_th": "สามดาบ",
+    "display_th": "Three of Swords — สามดาบ",
+    "image": "minor/03_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "ผิดหวังเรื่องเงิน ข่าวไม่ดี หรือข้อขัดแย้งในผลประโยชน์"
+      },
+      "work": {
+        "level": "caution",
+        "text": "งานกดดัน อาจถูกวิจารณ์หรือเจอความไม่ลงรอย"
+      },
+      "love": {
+        "level": "caution",
+        "text": "เจ็บปวดจากความรัก การผิดหวัง หรือคำพูดที่บาดใจ"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังความเครียดสะสม ใจหม่น และควรพักผ่อนให้พอ"
+      }
+    }
+  },
+  {
+    "id": "swords_04",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Four",
+    "name_en": "Four of Swords",
+    "name_th": "สี่ดาบ",
+    "display_th": "Four of Swords — สี่ดาบ",
+    "image": "minor/04_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "ชะลอรายจ่ายใหญ่ พักจากการตัดสินใจการเงินสักระยะ"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "งานควรพัก วางแผน และฟื้นแรงก่อนกลับมาลุย"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความสัมพันธ์ต้องการระยะห่างที่สงบเพื่อทบทวน"
+      },
+      "health": {
+        "level": "good",
+        "text": "เด่นเรื่องการพักฟื้น นอนให้พอ และลดภาวะเครียด"
+      }
+    }
+  },
+  {
+    "id": "swords_05",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Five",
+    "name_en": "Five of Swords",
+    "name_th": "ห้าดาบ",
+    "display_th": "Five of Swords — ห้าดาบ",
+    "image": "minor/05_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "ระวังข้อพิพาท ผลประโยชน์ไม่ลงตัว หรือชนะแล้วไม่คุ้ม"
+      },
+      "work": {
+        "level": "caution",
+        "text": "มีการแข่งขัน การเมืองในที่ทำงาน หรือการสื่อสารที่ทำให้บาดหมาง"
+      },
+      "love": {
+        "level": "caution",
+        "text": "ทะเลาะเพื่อเอาชนะ อาจทำลายความรู้สึกและความไว้ใจ"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ความเครียดจากความขัดแย้งส่งผลต่อร่างกาย ควรถอยจากเรื่องไม่จำเป็น"
+      }
+    }
+  },
+  {
+    "id": "swords_06",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Six",
+    "name_en": "Six of Swords",
+    "name_th": "หกดาบ",
+    "display_th": "Six of Swords — หกดาบ",
+    "image": "minor/06_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "การเงินค่อยๆ ผ่านช่วงหนักไปสู่จุดที่ดีขึ้น ต้องคุมแผนต่อเนื่อง"
+      },
+      "work": {
+        "level": "good",
+        "text": "เหมาะย้ายทีม เปลี่ยนงาน หรือแก้ปัญหาด้วยวิธีใหม่ที่สงบกว่า"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความสัมพันธ์กำลังเยียวยา หรืออาจต้องเว้นระยะเพื่อลดปัญหา"
+      },
+      "health": {
+        "level": "good",
+        "text": "อาการเครียดหรือปัญหาสุขภาพมีแนวโน้มดีขึ้นทีละน้อย"
+      }
+    }
+  },
+  {
+    "id": "swords_07",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Seven",
+    "name_en": "Seven of Swords",
+    "name_th": "เจ็ดดาบ",
+    "display_th": "Seven of Swords — เจ็ดดาบ",
+    "image": "minor/07_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "ระวังถูกเอาเปรียบ ข้อมูลการเงินรั่วไหล หรือการทำอะไรไม่โปร่งใส"
+      },
+      "work": {
+        "level": "caution",
+        "text": "ระวังคนไม่จริงใจ งานเบื้องหลัง หรือการสื่อสารที่ปกปิดความจริง"
+      },
+      "love": {
+        "level": "caution",
+        "text": "อาจมีความลับ ความไม่ซื่อสัตย์ หรือความไม่ไว้วางใจ"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังเครียดจากการระแวง ควรตรวจสอบข้อเท็จจริงก่อนสรุป"
+      }
+    }
+  },
+  {
+    "id": "swords_08",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Eight",
+    "name_en": "Eight of Swords",
+    "name_th": "แปดดาบ",
+    "display_th": "Eight of Swords — แปดดาบ",
+    "image": "minor/08_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "รู้สึกติดขัดเรื่องเงิน แต่ยังมีทางออกหากกล้าขอคำปรึกษาและจัดการทีละเรื่อง"
+      },
+      "work": {
+        "level": "caution",
+        "text": "รู้สึกติดกับงานหรือข้อจำกัด ควรมองหาทางเลือกและความช่วยเหลือ"
+      },
+      "love": {
+        "level": "caution",
+        "text": "รู้สึกไม่กล้าพูดหรือออกจากความสัมพันธ์ที่กดดัน"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ความกังวลมากเกินไปอาจทำให้นอนไม่หลับและหมดแรง"
+      }
+    }
+  },
+  {
+    "id": "swords_09",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Nine",
+    "name_en": "Nine of Swords",
+    "name_th": "เก้าดาบ",
+    "display_th": "Nine of Swords — เก้าดาบ",
+    "image": "minor/09_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "กังวลเรื่องเงินมาก อาจมีภาระที่ทำให้คิดไม่ตก ควรทำแผนรับมือเป็นข้อๆ"
+      },
+      "work": {
+        "level": "caution",
+        "text": "งานเครียด คิดมาก กลัวผิดพลาด หรือแบกความคาดหวังหนักเกินไป"
+      },
+      "love": {
+        "level": "caution",
+        "text": "มีความกังวล เสียใจ หรือคิดมากเรื่องความสัมพันธ์ ควรสื่อสารหรือขอแรงสนับสนุน"
+      },
+      "health": {
+        "level": "caution",
+        "text": "ระวังนอนไม่พอ ความเครียดสะสม และอาการทางใจ ควรดูแลตนเองจริงจัง"
+      }
+    }
+  },
+  {
+    "id": "swords_10",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Ten",
+    "name_en": "Ten of Swords",
+    "name_th": "สิบดาบ",
+    "display_th": "Ten of Swords — สิบดาบ",
+    "image": "minor/10_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "เรื่องเงินหรือแผนเดิมอาจถึงจุดจบ ต้องยอมรับความจริงและเริ่มจัดโครงสร้างใหม่"
+      },
+      "work": {
+        "level": "caution",
+        "text": "โปรเจกต์หรือบทบาทงานอาจจบลง แม้หนักใจแต่เป็นโอกาสให้เริ่มใหม่"
+      },
+      "love": {
+        "level": "caution",
+        "text": "ความสัมพันธ์ถึงจุดแตกหักหรือจำเป็นต้องยอมรับความจริง"
+      },
+      "health": {
+        "level": "caution",
+        "text": "ร่างกายและใจอ่อนล้าอย่างมาก ควรพักและขอความช่วยเหลือหากไม่ไหว"
+      }
+    }
+  },
+  {
+    "id": "swords_page",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Page",
+    "name_en": "Page of Swords",
+    "name_th": "เด็กดาบ",
+    "display_th": "Page of Swords — เด็กดาบ",
+    "image": "minor/page_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "มีข่าวหรือข้อมูลเรื่องเงินเข้ามา ต้องตรวจสอบก่อนเชื่อ"
+      },
+      "work": {
+        "level": "good",
+        "text": "เหมาะกับการเรียนรู้ วิเคราะห์ วิจัย และรับข่าวสารใหม่ๆ"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "มีการจับตาดูหรือสื่อสารกันมากขึ้น ระวังความระแวงและคำพูดประชด"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังคิดมากจากข้อมูลเยอะเกินไป ควรพักจากหน้าจอบ้าง"
+      }
+    }
+  },
+  {
+    "id": "swords_knight",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Knight",
+    "name_en": "Knight of Swords",
+    "name_th": "อัศวินดาบ",
+    "display_th": "Knight of Swords — อัศวินดาบ",
+    "image": "minor/knight_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "ตัดสินใจเงินเร็วได้ แต่ต้องตรวจรายละเอียดก่อนลงมือ"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานเดินเร็ว เหมาะแก้ปัญหาเฉพาะหน้าและผลักดันเป้าหมาย"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความรักมีการคุยหรือปะทะกันแรง ควรฟังอีกฝ่ายก่อนตอบ"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังความรีบ ความกดดัน และอุบัติเหตุเล็กๆ"
+      }
+    }
+  },
+  {
+    "id": "swords_queen",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "Queen",
+    "name_en": "Queen of Swords",
+    "name_th": "ราชินีดาบ",
+    "display_th": "Queen of Swords — ราชินีดาบ",
+    "image": "minor/queen_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "ใช้เหตุผลจัดการเงินได้ดี ตัดรายจ่ายที่ไม่จำเป็นอย่างเด็ดขาด"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานเด่นเรื่องวิเคราะห์ วางระบบ เจรจา และตัดสินใจอย่างมืออาชีพ"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "รักแบบชัดเจน มีขอบเขต ต้องการความจริงใจมากกว่าคำหวาน"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังความตึงเครียดจากการคิดและควบคุมทุกอย่างมากเกินไป"
+      }
+    }
+  },
+  {
+    "id": "swords_king",
+    "arcana": "minor",
+    "suit": "Swords",
+    "suit_th": "ดาบ",
+    "rank_en": "King",
+    "name_en": "King of Swords",
+    "name_th": "ราชาดาบ",
+    "display_th": "King of Swords — ราชาดาบ",
+    "image": "minor/king_of_swords.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "วางแผนการเงินรอบคอบ เหมาะกับการตัดสินใจตามข้อมูลและหลักการ"
+      },
+      "work": {
+        "level": "good",
+        "text": "ภาวะผู้นำสูง เหมาะบริหาร วางกลยุทธ์ หรือจัดการเรื่องสำคัญ"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความสัมพันธ์ต้องใช้เหตุผลควบคู่ความอ่อนโยน อย่าเย็นชาจนเกินไป"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ควรจัดสมดุลระหว่างงาน ความคิด และเวลาพักผ่อน"
+      }
+    }
+  },
+  {
+    "id": "wands_ace",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Ace",
+    "name_en": "Ace of Wands",
+    "name_th": "หนึ่งไม้เท้า",
+    "display_th": "Ace of Wands — หนึ่งไม้เท้า",
+    "image": "minor/ace_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีช่องทางหาเงินใหม่จากไอเดีย ธุรกิจ หรือความสามารถส่วนตัว"
+      },
+      "work": {
+        "level": "good",
+        "text": "เหมาะเริ่มโปรเจกต์ งานใหม่ หรือผลักดันความฝันอย่างเต็มที่"
+      },
+      "love": {
+        "level": "good",
+        "text": "มีแรงดึงดูดสูง ความสัมพันธ์เริ่มต้นอย่างตื่นเต้น"
+      },
+      "health": {
+        "level": "good",
+        "text": "พลังงานดี เหมาะเริ่มออกกำลังกายหรือปรับไลฟ์สไตล์"
+      }
+    }
+  },
+  {
+    "id": "wands_02",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Two",
+    "name_en": "Two of Wands",
+    "name_th": "สองไม้เท้า",
+    "display_th": "Two of Wands — สองไม้เท้า",
+    "image": "minor/02_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "วางแผนเงินระยะยาวได้ดี มีโอกาสขยายช่องทางรายได้"
+      },
+      "work": {
+        "level": "good",
+        "text": "เริ่มเห็นภาพอนาคต เหมาะวางกลยุทธ์ ขยายงาน หรือมองหาทางเลือกใหม่"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความรักต้องคุยเรื่องอนาคตและทิศทางที่ชัดเจน"
+      },
+      "health": {
+        "level": "good",
+        "text": "สุขภาพดีเมื่อมีเป้าหมายและวางกิจวัตรต่อเนื่อง"
+      }
+    }
+  },
+  {
+    "id": "wands_03",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Three",
+    "name_en": "Three of Wands",
+    "name_th": "สามไม้เท้า",
+    "display_th": "Three of Wands — สามไม้เท้า",
+    "image": "minor/03_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "การเงินมีแนวโน้มเติบโตจากการรอผล การขยายตลาด หรืองานไกล"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานคืบหน้า มีโอกาสร่วมงานต่างถิ่น ต่างประเทศ หรือขยายเครือข่าย"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความสัมพันธ์ก้าวหน้าเมื่อมองอนาคตร่วมกัน อาจเกี่ยวข้องกับระยะทาง"
+      },
+      "health": {
+        "level": "good",
+        "text": "ภาพรวมดี ควรรักษาวินัยเพื่อผลระยะยาว"
+      }
+    }
+  },
+  {
+    "id": "wands_04",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Four",
+    "name_en": "Four of Wands",
+    "name_th": "สี่ไม้เท้า",
+    "display_th": "Four of Wands — สี่ไม้เท้า",
+    "image": "minor/04_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีข่าวดีทางเงินจากความสำเร็จ งานฉลอง หรือครอบครัวสนับสนุน"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานสำเร็จเป็นช่วงๆ บรรยากาศทีมดี เหมาะเปิดตัวหรือฉลองผลงาน"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักมั่นคง มีเกณฑ์ตกลงสถานะ อยู่ร่วมกัน หรือพบครอบครัว"
+      },
+      "health": {
+        "level": "good",
+        "text": "สุขภาพใจดีจากสภาพแวดล้อมที่อบอุ่น แต่ระวังพักผ่อนน้อยช่วงสังสรรค์"
+      }
+    }
+  },
+  {
+    "id": "wands_05",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Five",
+    "name_en": "Five of Wands",
+    "name_th": "ห้าไม้เท้า",
+    "display_th": "Five of Wands — ห้าไม้เท้า",
+    "image": "minor/05_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "มีการแข่งขันด้านรายได้ หรือความเห็นต่างเรื่องการใช้เงิน"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "งานวุ่นวาย แข่งขันสูง หลายคนมีความเห็นไม่ตรงกัน"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "อาจเถียงกันบ่อยจากเรื่องเล็กๆ ควรฟังกันก่อนตอบ"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังความเครียด กล้ามเนื้อตึง และพลังงานกระจัดกระจาย"
+      }
+    }
+  },
+  {
+    "id": "wands_06",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Six",
+    "name_en": "Six of Wands",
+    "name_th": "หกไม้เท้า",
+    "display_th": "Six of Wands — หกไม้เท้า",
+    "image": "minor/06_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีโอกาสได้เงินจากความสำเร็จ ค่าตอบแทน หรือการได้รับการยอมรับ"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานโดดเด่น ชนะการแข่งขัน ได้ชื่อเสียง หรือได้รับคำชม"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักมีความชัดเจน ได้รับการยอมรับหรือภูมิใจในกันและกัน"
+      },
+      "health": {
+        "level": "good",
+        "text": "กำลังใจดี พลังชีวิตกลับมา แต่ไม่ควรหักโหมเพราะมั่นใจเกินไป"
+      }
+    }
+  },
+  {
+    "id": "wands_07",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Seven",
+    "name_en": "Seven of Wands",
+    "name_th": "เจ็ดไม้เท้า",
+    "display_th": "Seven of Wands — เจ็ดไม้เท้า",
+    "image": "minor/07_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "ต้องปกป้องผลประโยชน์หรือรายได้ของตัวเอง ระวังคู่แข่ง"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "งานมีแรงกดดัน ต้องยืนหยัดกับจุดยืนและรับมือคำท้าทาย"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ต้องปกป้องขอบเขตความสัมพันธ์ อย่าให้คนอื่นเข้ามาก้าวก่าย"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ระวังล้าจากการต้องสู้ตลอดเวลา ควรแบ่งเวลาพัก"
+      }
+    }
+  },
+  {
+    "id": "wands_08",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Eight",
+    "name_en": "Eight of Wands",
+    "name_th": "แปดไม้เท้า",
+    "display_th": "Eight of Wands — แปดไม้เท้า",
+    "image": "minor/08_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "เงินเข้าหรือข่าวการเงินมาเร็ว มีโอกาสใหม่แบบกะทันหัน"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานเดินไว การติดต่อ ข่าวสาร และการปิดงานมีความคืบหน้า"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักพัฒนาเร็ว มีการติดต่อหรือเจอกันมากขึ้น"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ชีวิตเร่งรีบ ระวังพักผ่อนไม่พอและอุบัติเหตุจากความไว"
+      }
+    }
+  },
+  {
+    "id": "wands_09",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Nine",
+    "name_en": "Nine of Wands",
+    "name_th": "เก้าไม้เท้า",
+    "display_th": "Nine of Wands — เก้าไม้เท้า",
+    "image": "minor/09_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "ระวังเงินสำรองไว้ เพราะอาจมีภาระที่ต้องรับมืออีกระลอก"
+      },
+      "work": {
+        "level": "neutral",
+        "text": "เหนื่อยแต่ยังไม่ควรยอมแพ้ ตรวจงานและป้องกันข้อผิดพลาด"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "มีบาดแผลเก่าทำให้ระแวง ควรค่อยๆ สร้างความไว้ใจ"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "ร่างกายล้า ควรพักและไม่ฝืนเมื่อมีสัญญาณเตือน"
+      }
+    }
+  },
+  {
+    "id": "wands_10",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Ten",
+    "name_en": "Ten of Wands",
+    "name_th": "สิบไม้เท้า",
+    "display_th": "Ten of Wands — สิบไม้เท้า",
+    "image": "minor/10_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "caution",
+        "text": "ภาระการเงินมากเกินไป ระวังรับผิดชอบแทนคนอื่นหรือใช้จ่ายเกินกำลัง"
+      },
+      "work": {
+        "level": "caution",
+        "text": "งานล้นมือ แบกหลายหน้าที่ ควรมอบหมายหรือจัดลำดับความสำคัญ"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความรักอาจถูกกระทบเพราะไม่มีเวลาและความเหนื่อยสะสม"
+      },
+      "health": {
+        "level": "caution",
+        "text": "ระวังอ่อนเพลีย ปวดเมื่อย เครียดสะสม และภาวะหมดไฟ"
+      }
+    }
+  },
+  {
+    "id": "wands_page",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Page",
+    "name_en": "Page of Wands",
+    "name_th": "เด็กไม้เท้า",
+    "display_th": "Page of Wands — เด็กไม้เท้า",
+    "image": "minor/page_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีข่าวดีหรือไอเดียทำเงินใหม่ เหมาะทดลองสิ่งที่สนใจ"
+      },
+      "work": {
+        "level": "good",
+        "text": "ได้รับโอกาสเริ่มงาน เรียนรู้ หรือทำสิ่งใหม่ที่ท้าทาย"
+      },
+      "love": {
+        "level": "good",
+        "text": "มีคนเข้ามาแบบสนุกสนาน น่าตื่นเต้น หรือความสัมพันธ์เริ่มมีสีสัน"
+      },
+      "health": {
+        "level": "good",
+        "text": "มีไฟในการดูแลตัวเอง แต่อย่าทำกิจกรรมหนักโดยไม่เตรียมตัว"
+      }
+    }
+  },
+  {
+    "id": "wands_knight",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Knight",
+    "name_en": "Knight of Wands",
+    "name_th": "อัศวินไม้เท้า",
+    "display_th": "Knight of Wands — อัศวินไม้เท้า",
+    "image": "minor/knight_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "neutral",
+        "text": "มีจังหวะหาเงินไว แต่ระวังใจร้อน ใช้เงินตามความอยาก หรือเสี่ยงเกินแผน"
+      },
+      "work": {
+        "level": "good",
+        "text": "งานที่ต้องลุย เดินทาง ขาย หรือทำเร็วเด่นมาก"
+      },
+      "love": {
+        "level": "neutral",
+        "text": "ความรักร้อนแรงและรวดเร็ว แต่ควรดูความสม่ำเสมอระยะยาว"
+      },
+      "health": {
+        "level": "neutral",
+        "text": "พลังงานสูง แต่ระวังอุบัติเหตุ ความหุนหัน และพักไม่พอ"
+      }
+    }
+  },
+  {
+    "id": "wands_queen",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "Queen",
+    "name_en": "Queen of Wands",
+    "name_th": "ราชินีไม้เท้า",
+    "display_th": "Queen of Wands — ราชินีไม้เท้า",
+    "image": "minor/queen_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "ดึงดูดโอกาสและรายได้ได้ดีจากความมั่นใจ ความสามารถ และเครือข่าย"
+      },
+      "work": {
+        "level": "good",
+        "text": "มีภาวะผู้นำ เสน่ห์สูง เหมาะนำทีม สร้างแบรนด์ หรือทำธุรกิจ"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักมีเสน่ห์ สดใส และกล้าแสดงออกอย่างชัดเจน"
+      },
+      "health": {
+        "level": "good",
+        "text": "พลังใจและพลังงานดี เหมาะทำกิจกรรมที่ทำให้รู้สึกมั่นใจ"
+      }
+    }
+  },
+  {
+    "id": "wands_king",
+    "arcana": "minor",
+    "suit": "Wands",
+    "suit_th": "ไม้เท้า",
+    "rank_en": "King",
+    "name_en": "King of Wands",
+    "name_th": "ราชาไม้เท้า",
+    "display_th": "King of Wands — ราชาไม้เท้า",
+    "image": "minor/king_of_wands.png",
+    "meanings": {
+      "money": {
+        "level": "good",
+        "text": "มีวิสัยทัศน์หาเงินเก่ง เหมาะขยายธุรกิจหรือบริหารการลงทุนอย่างมีแผน"
+      },
+      "work": {
+        "level": "good",
+        "text": "ภาวะผู้นำเด่น เหมาะตัดสินใจเรื่องใหญ่ สร้างงาน หรือพาทีมไปข้างหน้า"
+      },
+      "love": {
+        "level": "good",
+        "text": "ความรักชัดเจน มีความตั้งใจ แต่ควรระวังความเป็นผู้นำจนไม่ฟังกัน"
+      },
+      "health": {
+        "level": "good",
+        "text": "พลังชีวิตดี แต่ควรบาลานซ์การทำงานหนักกับเวลาพัก"
+      }
+    }
+  }
+]

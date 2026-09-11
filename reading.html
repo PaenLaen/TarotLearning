@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>แมวทาโรต์ — ทำนาย</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Taviraj:wght@500;600&family=Sarabun:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <p class="mark"><span class="paw">✦</span> แมวทาโรต์</p>
+  <p class="sub">เลือกไพ่ 3 ใบ แล้วให้ทำนาย</p>
+</header>
+
+<div class="tray-wrap">
+  <div class="tray" id="tray">
+    <div class="tray-slot" data-slot="0"><span class="slot-num">1</span></div>
+    <div class="tray-slot" data-slot="1"><span class="slot-num">2</span></div>
+    <div class="tray-slot" data-slot="2"><span class="slot-num">3</span></div>
+  </div>
+  <button class="tray-clear" id="trayClear" type="button">ล้างไพ่ที่เลือก</button>
+</div>
+
+<div class="api-status">
+  <span class="api-dot" id="apiDot"></span>
+  <span id="apiStatusText">ยังไม่ตั้งค่า Gemini API key</span>
+  <button class="api-settings-btn" id="apiSettingsBtn" type="button">ตั้งค่า</button>
+</div>
+
+<nav class="filter-row" id="filterRow" aria-label="กรองไพ่ตามชุด">
+  <button class="chip" data-filter="all" aria-pressed="true">ทั้งหมด</button>
+  <button class="chip" data-filter="major" aria-pressed="false">ไพ่หลัก</button>
+  <button class="chip" data-filter="wands" aria-pressed="false">ไม้เท้า</button>
+  <button class="chip" data-filter="cups" aria-pressed="false">ถ้วย</button>
+  <button class="chip" data-filter="swords" aria-pressed="false">ดาบ</button>
+  <button class="chip" data-filter="pentacles" aria-pressed="false">เหรียญ</button>
+</nav>
+
+<main id="sections"></main>
+
+<section class="ask-block" id="askBlock">
+  <label class="ask-label" for="askInput">อยากรู้เรื่องอะไร</label>
+  <textarea
+    id="askInput"
+    class="ask-input"
+    rows="2"
+    placeholder="เช่น ความสัมพันธ์กับแฟฉันจะเป็นอย่างไรต่อไป, ปีนี้เหมาะย้ายงานไหม"
+  ></textarea>
+  <button class="ask-btn" id="askBtn" type="button" disabled>ให้ไพ่ทำนาย</button>
+</section>
+
+<section class="result-block" id="resultBlock" hidden>
+  <hr class="suit-rule">
+  <div id="resultContent"></div>
+</section>
+
+<div class="detail-overlay" id="apiOverlay">
+  <div class="detail-panel" id="apiPanel" role="dialog" aria-modal="true">
+    <div class="grabber"></div>
+    <button class="detail-close" id="apiClose" aria-label="ปิด">✕</button>
+    <h3 class="settings-title">เชื่อม Gemini API</h3>
+    <p class="settings-help">
+      กรอก API key ของ Google Gemini (มี free tier ให้ใช้) — คีย์นี้จะถูกเก็บไว้ใน<strong>เบราว์เซอร์ของคุณเท่านั้น</strong>
+      ไม่ถูกส่งไปที่อื่นและไม่ถูกฝังในโค้ดของเว็บ<br>
+      ยังไม่มีคีย์? ขอฟรีได้ที่
+      <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com/apikey</a>
+    </p>
+    <label class="ask-label" for="apiKeyInput">API key</label>
+    <input id="apiKeyInput" class="ask-input" type="password" placeholder="AIza...">
+
+    <label class="ask-label" for="apiModelInput" style="margin-top:14px;">โมเดล</label>
+    <input id="apiModelInput" class="ask-input" type="text" placeholder="gemini-2.5-flash">
+    <p class="settings-hint">ค่าเริ่มต้น gemini-2.5-flash (ฟรี) — ถ้า Google เปลี่ยนชื่อโมเดลในอนาคต แก้ที่นี่ได้เลยโดยไม่ต้องแก้โค้ด</p>
+
+    <button class="ask-btn" id="apiSaveBtn" type="button">บันทึก</button>
+    <button class="api-clear-btn" id="apiClearBtn" type="button">ลบคีย์ที่บันทึกไว้</button>
+  </div>
+</div>
+
+<nav class="tab-bar" aria-label="เมนูหลัก">
+  <a class="tab" href="index.html">
+    <span class="icon">🗂️</span>คลังไพ่
+  </a>
+  <a class="tab active" href="reading.html">
+    <span class="icon">🔮</span>ทำนาย
+  </a>
+</nav>
+
+<script src="js/reading.js"></script>
+</body>
+</html>
