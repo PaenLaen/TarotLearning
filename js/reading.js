@@ -12,7 +12,7 @@
 
   var LS_KEY = "tarot_gemini_key";
   var LS_MODEL = "tarot_gemini_model";
-  var DEFAULT_MODEL = "gemini-2.5-flash";
+  var DEFAULT_MODEL = "gemini-3.6-flash";
 
   var sectionsEl = document.getElementById("sections");
   var filterRow = document.getElementById("filterRow");
