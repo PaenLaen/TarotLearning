@@ -546,7 +546,7 @@
     "name_en": "Judgement",
     "name_th": "การตื่นรู้/การพิพากษา",
     "display_th": "XX Judgement — การตื่นรู้/การพิพากษา",
-    "image": "major/20_the_judgement.png",
+    "image": "major/20_judgement.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -602,7 +602,7 @@
     "name_en": "Ace of Cups",
     "name_th": "หนึ่งถ้วย",
     "display_th": "Ace of Cups — หนึ่งถ้วย",
-    "image": "minor/ace_of_cups.png",
+    "image": "minor/cups_01_ace.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -631,7 +631,7 @@
     "name_en": "Two of Cups",
     "name_th": "สองถ้วย",
     "display_th": "Two of Cups — สองถ้วย",
-    "image": "minor/02_of_cups.png",
+    "image": "minor/cups_02_two.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -660,7 +660,7 @@
     "name_en": "Three of Cups",
     "name_th": "สามถ้วย",
     "display_th": "Three of Cups — สามถ้วย",
-    "image": "minor/03_of_cups.png",
+    "image": "minor/cups_03_three.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -689,7 +689,7 @@
     "name_en": "Four of Cups",
     "name_th": "สี่ถ้วย",
     "display_th": "Four of Cups — สี่ถ้วย",
-    "image": "minor/04_of_cups.png",
+    "image": "minor/cups_04_four.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -718,7 +718,7 @@
     "name_en": "Five of Cups",
     "name_th": "ห้าถ้วย",
     "display_th": "Five of Cups — ห้าถ้วย",
-    "image": "minor/05_of_cups.png",
+    "image": "minor/cups_05_five.png",
     "meanings": {
       "money": {
         "level": "caution",
@@ -747,7 +747,7 @@
     "name_en": "Six of Cups",
     "name_th": "หกถ้วย",
     "display_th": "Six of Cups — หกถ้วย",
-    "image": "minor/06_of_cups.png",
+    "image": "minor/cups_06_six.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -776,7 +776,7 @@
     "name_en": "Seven of Cups",
     "name_th": "เจ็ดถ้วย",
     "display_th": "Seven of Cups — เจ็ดถ้วย",
-    "image": "minor/07_of_cups.png",
+    "image": "minor/cups_07_seven.png",
     "meanings": {
       "money": {
         "level": "caution",
@@ -805,7 +805,7 @@
     "name_en": "Eight of Cups",
     "name_th": "แปดถ้วย",
     "display_th": "Eight of Cups — แปดถ้วย",
-    "image": "minor/08_of_cups.png",
+    "image": "minor/cups_08_eight.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -834,7 +834,7 @@
     "name_en": "Nine of Cups",
     "name_th": "เก้าถ้วย",
     "display_th": "Nine of Cups — เก้าถ้วย",
-    "image": "minor/09_of_cups.png",
+    "image": "minor/cups_09_nine.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -863,7 +863,7 @@
     "name_en": "Ten of Cups",
     "name_th": "สิบถ้วย",
     "display_th": "Ten of Cups — สิบถ้วย",
-    "image": "minor/10_of_cups.png",
+    "image": "minor/cups_10_ten.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -892,7 +892,7 @@
     "name_en": "Page of Cups",
     "name_th": "เด็กถ้วย",
     "display_th": "Page of Cups — เด็กถ้วย",
-    "image": "minor/page_of_cups.png",
+    "image": "minor/cups_11_page.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -921,7 +921,7 @@
     "name_en": "Knight of Cups",
     "name_th": "อัศวินถ้วย",
     "display_th": "Knight of Cups — อัศวินถ้วย",
-    "image": "minor/knight_of_cups.png",
+    "image": "minor/cups_12_knight.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -950,7 +950,7 @@
     "name_en": "Queen of Cups",
     "name_th": "ราชินีถ้วย",
     "display_th": "Queen of Cups — ราชินีถ้วย",
-    "image": "minor/queen_of_cups.png",
+    "image": "minor/cups_13_queen.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -979,7 +979,7 @@
     "name_en": "King of Cups",
     "name_th": "ราชาถ้วย",
     "display_th": "King of Cups — ราชาถ้วย",
-    "image": "minor/king_of_cups.png",
+    "image": "minor/cups_14_king.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1008,7 +1008,7 @@
     "name_en": "Ace of Pentacles",
     "name_th": "หนึ่งเหรียญ",
     "display_th": "Ace of Pentacles — หนึ่งเหรียญ",
-    "image": "minor/ace_of_pentacles.png",
+    "image": "minor/pentacles_01_ace.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1037,7 +1037,7 @@
     "name_en": "Two of Pentacles",
     "name_th": "สองเหรียญ",
     "display_th": "Two of Pentacles — สองเหรียญ",
-    "image": "minor/02_of_pentacles.png",
+    "image": "minor/pentacles_02_two.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -1066,7 +1066,7 @@
     "name_en": "Three of Pentacles",
     "name_th": "สามเหรียญ",
     "display_th": "Three of Pentacles — สามเหรียญ",
-    "image": "minor/03_of_pentacles.png",
+    "image": "minor/pentacles_03_three.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1095,7 +1095,7 @@
     "name_en": "Four of Pentacles",
     "name_th": "สี่เหรียญ",
     "display_th": "Four of Pentacles — สี่เหรียญ",
-    "image": "minor/04_of_pentacles.png",
+    "image": "minor/pentacles_04_four.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -1124,7 +1124,7 @@
     "name_en": "Five of Pentacles",
     "name_th": "ห้าเหรียญ",
     "display_th": "Five of Pentacles — ห้าเหรียญ",
-    "image": "minor/05_of_pentacles.png",
+    "image": "minor/pentacles_05_five.png",
     "meanings": {
       "money": {
         "level": "caution",
@@ -1153,7 +1153,7 @@
     "name_en": "Six of Pentacles",
     "name_th": "หกเหรียญ",
     "display_th": "Six of Pentacles — หกเหรียญ",
-    "image": "minor/06_of_pentacles.png",
+    "image": "minor/pentacles_06_six.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1182,7 +1182,7 @@
     "name_en": "Seven of Pentacles",
     "name_th": "เจ็ดเหรียญ",
     "display_th": "Seven of Pentacles — เจ็ดเหรียญ",
-    "image": "minor/07_of_pentacles.png",
+    "image": "minor/pentacles_07_seven.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -1211,7 +1211,7 @@
     "name_en": "Eight of Pentacles",
     "name_th": "แปดเหรียญ",
     "display_th": "Eight of Pentacles — แปดเหรียญ",
-    "image": "minor/08_of_pentacles.png",
+    "image": "minor/pentacles_08_eight.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1240,7 +1240,7 @@
     "name_en": "Nine of Pentacles",
     "name_th": "เก้าเหรียญ",
     "display_th": "Nine of Pentacles — เก้าเหรียญ",
-    "image": "minor/09_of_pentacles.png",
+    "image": "minor/pentacles_09_nine.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1269,7 +1269,7 @@
     "name_en": "Ten of Pentacles",
     "name_th": "สิบเหรียญ",
     "display_th": "Ten of Pentacles — สิบเหรียญ",
-    "image": "minor/10_of_pentacles.png",
+    "image": "minor/pentacles_10_ten.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1298,7 +1298,7 @@
     "name_en": "Page of Pentacles",
     "name_th": "เด็กเหรียญ",
     "display_th": "Page of Pentacles — เด็กเหรียญ",
-    "image": "minor/page_of_pentacles.png",
+    "image": "minor/pentacles_11_page.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1327,7 +1327,7 @@
     "name_en": "Knight of Pentacles",
     "name_th": "อัศวินเหรียญ",
     "display_th": "Knight of Pentacles — อัศวินเหรียญ",
-    "image": "minor/knight_of_pentacles.png",
+    "image": "minor/pentacles_12_knight.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1356,7 +1356,7 @@
     "name_en": "Queen of Pentacles",
     "name_th": "ราชินีเหรียญ",
     "display_th": "Queen of Pentacles — ราชินีเหรียญ",
-    "image": "minor/queen_of_pentacles.png",
+    "image": "minor/pentacles_13_queen.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1385,7 +1385,7 @@
     "name_en": "King of Pentacles",
     "name_th": "ราชาเหรียญ",
     "display_th": "King of Pentacles — ราชาเหรียญ",
-    "image": "minor/king_of_pentacles.png",
+    "image": "minor/pentacles_14_king.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1414,7 +1414,7 @@
     "name_en": "Ace of Swords",
     "name_th": "หนึ่งดาบ",
     "display_th": "Ace of Swords — หนึ่งดาบ",
-    "image": "minor/ace_of_swords.png",
+    "image": "minor/swords_01_ace.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1443,7 +1443,7 @@
     "name_en": "Two of Swords",
     "name_th": "สองดาบ",
     "display_th": "Two of Swords — สองดาบ",
-    "image": "minor/02_of_swords.png",
+    "image": "minor/swords_02_two.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -1472,7 +1472,7 @@
     "name_en": "Three of Swords",
     "name_th": "สามดาบ",
     "display_th": "Three of Swords — สามดาบ",
-    "image": "minor/03_of_swords.png",
+    "image": "minor/swords_03_three.png",
     "meanings": {
       "money": {
         "level": "caution",
@@ -1501,7 +1501,7 @@
     "name_en": "Four of Swords",
     "name_th": "สี่ดาบ",
     "display_th": "Four of Swords — สี่ดาบ",
-    "image": "minor/04_of_swords.png",
+    "image": "minor/swords_04_four.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -1530,7 +1530,7 @@
     "name_en": "Five of Swords",
     "name_th": "ห้าดาบ",
     "display_th": "Five of Swords — ห้าดาบ",
-    "image": "minor/05_of_swords.png",
+    "image": "minor/swords_05_five.png",
     "meanings": {
       "money": {
         "level": "caution",
@@ -1559,7 +1559,7 @@
     "name_en": "Six of Swords",
     "name_th": "หกดาบ",
     "display_th": "Six of Swords — หกดาบ",
-    "image": "minor/06_of_swords.png",
+    "image": "minor/swords_06_six.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -1588,7 +1588,7 @@
     "name_en": "Seven of Swords",
     "name_th": "เจ็ดดาบ",
     "display_th": "Seven of Swords — เจ็ดดาบ",
-    "image": "minor/07_of_swords.png",
+    "image": "minor/swords_07_seven.png",
     "meanings": {
       "money": {
         "level": "caution",
@@ -1617,7 +1617,7 @@
     "name_en": "Eight of Swords",
     "name_th": "แปดดาบ",
     "display_th": "Eight of Swords — แปดดาบ",
-    "image": "minor/08_of_swords.png",
+    "image": "minor/swords_08_eight.png",
     "meanings": {
       "money": {
         "level": "caution",
@@ -1646,7 +1646,7 @@
     "name_en": "Nine of Swords",
     "name_th": "เก้าดาบ",
     "display_th": "Nine of Swords — เก้าดาบ",
-    "image": "minor/09_of_swords.png",
+    "image": "minor/swords_09_nine.png",
     "meanings": {
       "money": {
         "level": "caution",
@@ -1675,7 +1675,7 @@
     "name_en": "Ten of Swords",
     "name_th": "สิบดาบ",
     "display_th": "Ten of Swords — สิบดาบ",
-    "image": "minor/10_of_swords.png",
+    "image": "minor/swords_10_ten.png",
     "meanings": {
       "money": {
         "level": "caution",
@@ -1704,7 +1704,7 @@
     "name_en": "Page of Swords",
     "name_th": "เด็กดาบ",
     "display_th": "Page of Swords — เด็กดาบ",
-    "image": "minor/page_of_swords.png",
+    "image": "minor/swords_11_page.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -1733,7 +1733,7 @@
     "name_en": "Knight of Swords",
     "name_th": "อัศวินดาบ",
     "display_th": "Knight of Swords — อัศวินดาบ",
-    "image": "minor/knight_of_swords.png",
+    "image": "minor/swords_12_knight.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -1762,7 +1762,7 @@
     "name_en": "Queen of Swords",
     "name_th": "ราชินีดาบ",
     "display_th": "Queen of Swords — ราชินีดาบ",
-    "image": "minor/queen_of_swords.png",
+    "image": "minor/swords_13_queen.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1791,7 +1791,7 @@
     "name_en": "King of Swords",
     "name_th": "ราชาดาบ",
     "display_th": "King of Swords — ราชาดาบ",
-    "image": "minor/king_of_swords.png",
+    "image": "minor/swords_14_king.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1820,7 +1820,7 @@
     "name_en": "Ace of Wands",
     "name_th": "หนึ่งไม้เท้า",
     "display_th": "Ace of Wands — หนึ่งไม้เท้า",
-    "image": "minor/ace_of_wands.png",
+    "image": "minor/wands_01_ace.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1849,7 +1849,7 @@
     "name_en": "Two of Wands",
     "name_th": "สองไม้เท้า",
     "display_th": "Two of Wands — สองไม้เท้า",
-    "image": "minor/02_of_wands.png",
+    "image": "minor/wands_02_two.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1878,7 +1878,7 @@
     "name_en": "Three of Wands",
     "name_th": "สามไม้เท้า",
     "display_th": "Three of Wands — สามไม้เท้า",
-    "image": "minor/03_of_wands.png",
+    "image": "minor/wands_03_three.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1907,7 +1907,7 @@
     "name_en": "Four of Wands",
     "name_th": "สี่ไม้เท้า",
     "display_th": "Four of Wands — สี่ไม้เท้า",
-    "image": "minor/04_of_wands.png",
+    "image": "minor/wands_04_four.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1936,7 +1936,7 @@
     "name_en": "Five of Wands",
     "name_th": "ห้าไม้เท้า",
     "display_th": "Five of Wands — ห้าไม้เท้า",
-    "image": "minor/05_of_wands.png",
+    "image": "minor/wands_05_five.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -1965,7 +1965,7 @@
     "name_en": "Six of Wands",
     "name_th": "หกไม้เท้า",
     "display_th": "Six of Wands — หกไม้เท้า",
-    "image": "minor/06_of_wands.png",
+    "image": "minor/wands_06_six.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -1994,7 +1994,7 @@
     "name_en": "Seven of Wands",
     "name_th": "เจ็ดไม้เท้า",
     "display_th": "Seven of Wands — เจ็ดไม้เท้า",
-    "image": "minor/07_of_wands.png",
+    "image": "minor/wands_07_seven.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -2023,7 +2023,7 @@
     "name_en": "Eight of Wands",
     "name_th": "แปดไม้เท้า",
     "display_th": "Eight of Wands — แปดไม้เท้า",
-    "image": "minor/08_of_wands.png",
+    "image": "minor/wands_08_eight.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -2052,7 +2052,7 @@
     "name_en": "Nine of Wands",
     "name_th": "เก้าไม้เท้า",
     "display_th": "Nine of Wands — เก้าไม้เท้า",
-    "image": "minor/09_of_wands.png",
+    "image": "minor/wands_09_nine.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -2081,7 +2081,7 @@
     "name_en": "Ten of Wands",
     "name_th": "สิบไม้เท้า",
     "display_th": "Ten of Wands — สิบไม้เท้า",
-    "image": "minor/10_of_wands.png",
+    "image": "minor/wands_10_ten.png",
     "meanings": {
       "money": {
         "level": "caution",
@@ -2110,7 +2110,7 @@
     "name_en": "Page of Wands",
     "name_th": "เด็กไม้เท้า",
     "display_th": "Page of Wands — เด็กไม้เท้า",
-    "image": "minor/page_of_wands.png",
+    "image": "minor/wands_11_page.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -2139,7 +2139,7 @@
     "name_en": "Knight of Wands",
     "name_th": "อัศวินไม้เท้า",
     "display_th": "Knight of Wands — อัศวินไม้เท้า",
-    "image": "minor/knight_of_wands.png",
+    "image": "minor/wands_12_knight.png",
     "meanings": {
       "money": {
         "level": "neutral",
@@ -2168,7 +2168,7 @@
     "name_en": "Queen of Wands",
     "name_th": "ราชินีไม้เท้า",
     "display_th": "Queen of Wands — ราชินีไม้เท้า",
-    "image": "minor/queen_of_wands.png",
+    "image": "minor/wands_13_queen.png",
     "meanings": {
       "money": {
         "level": "good",
@@ -2197,7 +2197,7 @@
     "name_en": "King of Wands",
     "name_th": "ราชาไม้เท้า",
     "display_th": "King of Wands — ราชาไม้เท้า",
-    "image": "minor/king_of_wands.png",
+    "image": "minor/wands_14_king.png",
     "meanings": {
       "money": {
         "level": "good",
